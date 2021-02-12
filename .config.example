@@ -1,0 +1,4 @@
+[RouterOS]
+RosApiAddress = 192.168.88.1
+RosApiUsername = username
+RosApiPassword = password

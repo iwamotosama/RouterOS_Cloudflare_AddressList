@@ -1,0 +1,3 @@
+[submodule "RouterOS_API"]
+	path = RouterOS_API
+	url = https://github.com/LaiArturs/RouterOS_API.git
