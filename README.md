@@ -8,10 +8,10 @@ The firewall rules can configured to only forwards ports if the source address i
 
 * Clone repository 
 * Initialize and update submodule
-  * ``git submodule init
-  * ``git submodule clone
+  * ``git submodule init``
+  * ``git submodule clone``
 * Install Python3
-  * Ubuntu: ``apt install python3 python3-pip
+  * Ubuntu: ``apt install python3 python3-pip``
 * Get pip dependencies
-  * Ubuntu: ``pip3 install requests configparser
+  * Ubuntu: ``pip3 install requests configparser``
 * Copy ``.config.example`` to ``.config`` and update address, username and password
